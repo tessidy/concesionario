@@ -1,0 +1,173 @@
+{"coches":[
+    {
+        "id": 1,
+        "marca": "seat",
+        "año": 10,
+        "kilometraje": 100560,
+        "combustible": "gasoil",
+        "precio": 10000,
+        "fichero": "Blue_Diamond.jpg"
+    },
+    {
+        "id": 2,
+        "marca": "volkswagen",
+        "año": "10",
+        "kilometraje": "125364",
+        "combustible": "eléctrico",
+        "precio": "5800€",
+        "fichero": "Blue_Sunset.jpg"
+    },
+    {
+        "id": 3,
+        "marca": "audi",
+        "año": "5",
+        "kilometraje": "45620",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Classic.jpg"
+    },
+    {
+        "id": 4,
+        "marca": "Land Rover",
+        "año": "3",
+        "kilometraje": "150000",
+        "combustible": "híbrido",
+        "precio": "5850€",
+        "fichero": "Descapotable_White_Beach.jpg"
+    },
+    {
+        "id": 5,
+        "marca": "dacia",
+        "año": "7",
+        "kilometraje": "50000",
+        "combustible": "eléctrico",
+        "precio": "7300€",
+        "fichero": "Family_Saver.jpg"
+    },
+    {
+        "id": 6,
+        "marca": "Porsche",
+        "año": "12",
+        "kilometraje": "75000",
+        "combustible": "gasolina",
+        "precio": "10500€",
+        "fichero": "Pink_Bright.png"
+    },
+    {
+        "id": 7,
+        "marca": "lamborghini",
+        "año": "8",
+        "kilometraje": "105836",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Revolution_Rosa.jpg"
+    },
+    {
+        "id": 8,
+        "marca": "smart",
+        "año": "1",
+        "kilometraje": "1236",
+        "combustible": "eléctrico",
+        "precio": "25000€",
+        "fichero": "Smart_Posh.jpg"
+    },
+    {
+        "id": 9,
+        "marca": "mini cooper",
+        "año": "12",
+        "kilometraje": "200836",
+        "combustible": "diesel",
+        "precio": "2800€",
+        "fichero": "Sporty.jpg"
+    },
+    {
+        "id": 10,
+        "marca": "Porsche",
+        "año": "5",
+        "kilometraje": "60836",
+        "combustible": "híbrido",
+        "precio": "9800€",
+        "fichero": "Turqueise.jpg"
+    },
+    {
+        "id": 11,
+        "marca": "seat",
+        "año": "10",
+        "kilometraje": "125364",
+        "combustible": "eléctrico",
+        "precio": "5800€",
+        "fichero": "Dark_Night.jpg"
+    },
+    {
+        "id": 12,
+        "marca": "seat",
+        "año": "10",
+        "kilometraje": "100560",
+        "combustible": "gasolina",
+        "precio": "5000€",
+        "fichero": "Day_Nissan.jpg"
+    },
+    {
+        "id": 13,
+        "marca": "seat",
+        "año": "8",
+        "kilometraje": "105836",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Family_Trip.jpg"
+    },
+    {
+        "id": 14,
+        "marca": "seat",
+        "año": "12",
+        "kilometraje": "75000",
+        "combustible": "gasolina",
+        "precio": "10500€",
+        "fichero": "Ferrari_Blue.jpg"
+    },
+    {
+        "id": 15,
+        "marca": "seat",
+        "año": "7",
+        "kilometraje": "50000",
+        "combustible": "eléctrico",
+        "precio": "7300€",
+        "fichero": "Glamour_Platino.jpg"
+    },
+    {
+        "id": 16,
+        "marca": "seat",
+        "año": "3",
+        "kilometraje": "150000",
+        "combustible": "híbrido",
+        "precio": "5850€",
+        "fichero": "La_furia.jpg"
+    },
+    {
+        "id": 17,
+        "marca": "seat",
+        "año": "5",
+        "kilometraje": "45620",
+        "combustible": "diesel",
+        "precio": "12000€",
+        "fichero": "Red_Furious.jpg"
+    },
+    {
+        "id": 18,
+        "marca": "smart",
+        "año": "1",
+        "kilometraje": "1236",
+        "combustible": "eléctrico",
+        "precio": "25000€",
+        "fichero": "Style_Red.jpg"
+    },
+    {
+        "id": 19,
+        "marca": "mini cooper",
+        "año": "12",
+        "kilometraje": "200836",
+        "combustible": "diesel",
+        "precio": "2800€",
+        "fichero": "jeep-wranger-portada_8.jpg"
+    }
+]}

@@ -1,0 +1,69 @@
+/* Encabezado */
+
+header {
+	background: #333;
+	color: white;
+	height: 120px;
+}	
+header a {
+	color: white;
+}
+/*
+ * Logo
+ */
+#logo-imagen {
+    float: left;
+	padding: 15px 0 0 10px;
+}
+
+ #logo-empresa {
+	float: left;
+    padding: 35px 0 0 5px;
+    text-align: center;
+	text-decoration: none;
+}
+#logo-empresa:hover {
+    color: #0b76a6;
+}
+
+#logo-empresa .nombre {
+    display: block;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+#logo-empresa .descripcion {
+    display: block;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+	
+
+/*
+ * Navegación
+ */
+nav {
+	float: right;
+}
+	nav ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+	}
+	
+    nav ul li {
+        display: inline-block;
+        line-height: 80px;
+    }
+        
+    nav ul li a {
+        display: block;
+        padding: 0 10px;
+        text-decoration: none;
+    }
+    
+    nav ul li a:hover {
+        background: #0b76a6;
+    }
+

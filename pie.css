@@ -1,0 +1,20 @@
+/* Pie de pagina */
+footer {
+    display: block;
+	background: #333;
+	color: white;
+	text-align: center;
+    padding: 25px;
+	margin-top: 20px;
+}
+	
+footer a {
+    padding: 25px;
+	color: white;
+}
+
+footer img {
+    float: right;
+    margin-top: -10px;
+    padding: 1px;
+}
